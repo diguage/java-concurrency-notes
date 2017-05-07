@@ -1,4 +1,4 @@
-= Java 并发学习笔记
+= Java 并发学习笔记^Alpha^
 include::book/_attributes.adoc[]
 
 ++++
