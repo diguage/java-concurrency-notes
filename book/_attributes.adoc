@@ -1,5 +1,5 @@
 D瓜哥 <http://www.diguage.com/>
-v0.1.0, 2016-12-11: Alpha
+v0.1.0, 2017-05-07: Alpha
 :doctype: book
 :icons: font
 :iconfont-cdn: //cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css
@@ -7,7 +7,7 @@ v0.1.0, 2016-12-11: Alpha
 :source-language: java  // 后面还可以覆盖
 :pygments-style: monokai
 :pygments-linenums-mode: table
-:stylesdir: styles/
+// :stylesdir: styles/
 :linkcss:
 :docinfo:
 :toc:
