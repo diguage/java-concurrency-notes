@@ -7,10 +7,10 @@ v0.1.0, 2017-05-07: Alpha
 :source-language: java  // 后面还可以覆盖
 :pygments-style: monokai
 :pygments-linenums-mode: table
-// :stylesdir: styles/
+:stylesdir: styles/
 :linkcss:
 :docinfo:
-:toc:
+:toc: left
 :toc-title: 目录
 :toclevels: 4
 :sectnumlevels: 4
