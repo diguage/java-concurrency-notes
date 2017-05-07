@@ -1,6 +1,16 @@
 = Java 并发学习笔记
 include::book/_attributes.adoc[]
 
+++++
+include::analytics.html[]
+++++
+
+:sectnums!:
+
+include::book/preface.adoc[]
+
+:sectnums:
+
 include::book/01-introduction.adoc[]
 
 include::book/02-thread-safety.adoc[]
