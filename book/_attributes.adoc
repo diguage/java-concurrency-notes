@@ -1,0 +1,27 @@
+D瓜哥 <http://www.diguage.com/>
+v0.1.0, 2016-12-11: Alpha
+:doctype: book
+:icons: font
+:iconfont-cdn: //cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css
+:source-highlighter: coderay
+:source-language: java  // 后面还可以覆盖
+:pygments-style: monokai
+:pygments-linenums-mode: table
+:stylesdir: styles/
+:linkcss:
+:docinfo:
+:toc:
+:toc-title: 目录
+:toclevels: 4
+:sectnumlevels: 4
+:preface-title: 前言
+:chapter-label: 章
+:appendix-caption: 附录
+:listing-caption: 代码
+:figure-caption: 图
+:version-label: V
+:pdf-page-size: A4
+:keywords: Java 并发, 多线程, 进程, JMM, 信号量, 同步器, AQS, 线程池
+:description: Java 并发学习笔记。
+:last-update-label: 最后更新时间
+:homepage: http://www.diguage.com/
