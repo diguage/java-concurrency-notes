@@ -23,6 +23,4 @@ Github 对 Asciidoctor 的支持不是特别完善，另外很多人可能没有
 
 == 参考书籍
 
-更多参考资料，请查看文档最末尾的“参考资料”章节。这里只列出最重要的参考书籍。
-
 * https://book.douban.com/subject/10484692/[Java并发编程实战]
