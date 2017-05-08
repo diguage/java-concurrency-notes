@@ -1,1 +1,28 @@
 = Java 并发学习笔记
+
+D瓜哥的 Java 学习笔记。
+
+Github 对 Asciidoctor 的支持不是特别完善，另外很多人可能没有处理 Asciidoc 的工具。所以，D瓜哥把该文档处理后发布出来了。查看该文档内容请看下面官网。
+
+*该笔记官网： http://notes.diguage.com/java-concurrency/ 。*
+
+该笔记尚未完成，后续还会持续增加新内容。敬请关注！
+
+== 文档来源
+
+本文档可以看作是 D瓜哥 学习《Java并发编程实战》时，做的读书笔记。为了让内容更丰富，回头会把《Java并发编程的艺术》和《实战Java高并发程序设计》等书的学习笔记加进来。
+
+== 友情支持
+
+如果您觉得这个笔记对您有所帮助，看在D瓜哥码这么多字的辛苦上，请友情支持一下，D瓜哥感激不尽，😜
+
+[cols="2*^",frame=none]
+|===
+| image:book/images/alipay.jpeg[title="支付宝", alt="支付宝", width="60%"] | image:book/images/wxpay.png[title="微信", alt="微信", width="65%"]
+|===
+
+== 参考书籍
+
+更多参考资料，请查看文档最末尾的“参考资料”章节。这里只列出最重要的参考书籍。
+
+* https://book.douban.com/subject/10484692/[Java并发编程实战]
